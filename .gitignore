@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.session
+*.session-journal
+downloads/
+cache/
+.env
+*.mp3
+*.mp4
