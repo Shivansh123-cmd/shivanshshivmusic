@@ -66,8 +66,8 @@ def private_panel(_):
             ),
             # Mimi Tunes (Blue)
             api_btn(
-                text="˹ᴍɪᴍɪ ᴛᴜɴᴇs˼♪", 
-                url="http://t.me/IAM_MIMBOT", 
+                text="˹𝐒ʜɪᴠ ꭙ 𝐌ᴜꜱɪᴄ ♪˼", 
+                url="https://muisc-website.vercel.app/", 
                 style="primary", 
                 custom_emoji_id="5413840936994097463"
             ),
